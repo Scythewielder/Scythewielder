@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-[![Scythewielder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scythewielder)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Scythewielder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scythewielder&count_private=true&show_icons=true&theme=radical)](https://github.com/Scythewielder/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Scythewielder&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
